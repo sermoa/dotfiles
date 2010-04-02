@@ -1,3 +1,5 @@
+# Remember to git commit and push changes! #
+
 # Tools
 alias apt="sudo apt-get install"
 alias ack="ack-grep"

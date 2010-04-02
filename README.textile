@@ -5,3 +5,5 @@ Personal preferences that suit the way i work. Following the lead of several oth
 Thanks to "errtheblog":http://errtheblog.com/posts/89-huba-huba for the tips and the install file.
 
 To set up, just run @./install@
+
+Activate changes by running @bash@
