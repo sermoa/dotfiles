@@ -1,0 +1,7 @@
+h2. dotfiles
+
+Personal preferences that suit the way i work. Following the lead of several others, i will store them on github for easy duplication and synchronisation across multiple computers.
+
+Thanks to "http://errtheblog.com/posts/89-huba-huba":errtheblog for the tips and the install file.
+
+To set up, just run @install@
