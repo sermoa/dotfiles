@@ -4,6 +4,19 @@ Personal preferences that suit the way i work. Following the lead of several oth
 
 Thanks to "errtheblog":http://errtheblog.com/posts/89-huba-huba for the tips and the install file.
 
+h3. Install
+
 To set up, just run @./install@
 
 Activate changes by running @bash@
+
+h3. Shortcuts
+
+I use shortcuts to jump to different directories. I don't check them in here because they are different on every computer. Shortcuts are something like:
+
+<pre>
+alias ag='cd ~/rails_apps/active_geohasher'
+alias dotfiles='cd ~/work/sermoa/dotfiles'
+</pre>
+
+The alias @shortcuts@ opens the file for viewing and editing, or creating if they do not yet exist.
